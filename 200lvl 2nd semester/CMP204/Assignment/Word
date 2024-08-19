@@ -1,0 +1,4 @@
+file_name = 'example.txt'
+content = '''This is a sample text file.
+This file contains multiple lines of text.
+The goal is to count the number of times a particular word or phrase appears in this file.'''
